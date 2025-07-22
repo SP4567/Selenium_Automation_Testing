@@ -1,0 +1,3 @@
+Hello this is file handling using python! 
+123456
+Hello, this is Suyash Pandey, software engineer!
