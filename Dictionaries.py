@@ -1,10 +1,10 @@
 dict1 = {1:1, 2:4, 3:9, 4:16, 5:25}
 print(dict1)
 dict2 = {1:"Suyash", 2:"Monica"}
-dict3 = {'1st':"Suyash", '2nd':"Monica"}
+dict3 = {'1st':"Suyash", '2nd':"BMW"}
 print(dict1, dict2, dict3)
 print(dict1[1], dict2[2], dict3['1st'])
-dict3['3rd'] = 'Loves'
+dict3['3rd'] = 'loves'
 print(dict1, dict2, dict3)
 dict3.pop('3rd')
 print(dict1, dict2, dict3)
